@@ -1,2 +1,2 @@
 # vulnerabilidade_social
-Espaço para disseminação de conhecimentos
+Endereço para acesso à ferramenta https://outputgeo.github.io/vulnerabilidade_social/
