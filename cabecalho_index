@@ -26,6 +26,27 @@
 
     <title>Vulnerabilidade social seg. UDH </title>
 
+</head>
+<body>
+    <a https://www.outputgeo.com/a-empresa" target="_blank">
+        <img src="https://raw.githubusercontent.com/OutputGEO/vulnerabilidade_social/main/banner_WEBMAP_VULN_SOCIAL_red.png" alt="Banner">
+    </a>
+
+    <div id="map">
+        <div id="popup" class="ol-popup">
+            <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+            <div id="popup-content"></div>
+        </div>
+    </div>
+
+                <footer style="font-family: Calibri, sans-serif; font-size: 11px; color: #023858;">
+            <p>  |   Elaboração: <a href="https://www.outputgeo.com/" style="text-decoration: none; color: #045a8d;">OutputGEO Consultoria em Geoprocessamento</a>    |   Fonte:  <a href="http://ivs.ipea.gov.br/index.php/pt/sobre" style="text-decoration: none; color: #045a8d;">Atlas da Vulnerabilidade Social - IPEA/GovBR</a> " target="_blank"     |     2023 
+        </footer>
+
+
+
+
+
 
 
 <!DOCTYPE html>
@@ -54,3 +75,20 @@
         }
     </style>
     <title>Vulnerabilidade social seg. UDH</title>
+
+</head>
+<body>
+    <a https://www.outputgeo.com/a-empresa" target="_blank">
+        <img src="https://raw.githubusercontent.com/OutputGEO/vulnerabilidade_social/main/banner_WEBMAP_VULN_SOCIAL_red.png" alt="Banner">
+    </a>
+
+    <div id="map">
+        <div id="popup" class="ol-popup">
+            <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+            <div id="popup-content"></div>
+        </div>
+    </div>
+
+                <footer style="font-family: Calibri, sans-serif; font-size: 11px; color: #023858;">
+            <p>  |   Elaboração: <a href="https://www.outputgeo.com/" style="text-decoration: none; color: #045a8d;">OutputGEO Consultoria em Geoprocessamento</a>    |   Fonte:  <a href="http://ivs.ipea.gov.br/index.php/pt/sobre" style="text-decoration: none; color: #045a8d;">Atlas da Vulnerabilidade Social - IPEA/GovBR</a> " target="_blank"     |     2023 
+        </footer>
