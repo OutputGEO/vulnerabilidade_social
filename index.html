@@ -16,11 +16,58 @@
             margin: 0;
         }
         </style>
-        <title></title>
-    </head>
-    <body>
-        <div id="map">
+        
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <style>
+        html, body, #map {
+            width: 100%;
+            height: 94.6%;
+            padding: 0;
+            margin: 0;
+        }
+
+             img {
+            width: 100%;
+            height: auto; /* Isso garante que a altura seja ajustada proporcionalmente à largura */
+            display: block; /* Remove espaços em branco adicionados automaticamente abaixo da imagem */
+        }
+        </style>
+  
+
+    <title>Vulnerabilidade social seg. UDH </title>
+
+</head>
+<body>
+    <a https://www.outputgeo.com/a-empresa" target="_blank">
+        <img src="https://raw.githubusercontent.com/OutputGEO/vulnerabilidade_social/main/banner_WEBMAP_VULN_SOCIAL_red.png" alt="Banner">
+    </a>
+
+    <div id="map">
+        <div id="popup" class="ol-popup">
+            <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+            <div id="popup-content"></div>
         </div>
+    </div>
+
+                <footer style="font-family: Calibri, sans-serif; font-size: 11px; color: #023858;">
+            <p>  |   Elaboração: <a href="https://www.outputgeo.com/" style="text-decoration: none; color: #045a8d;">OutputGEO Consultoria em Geoprocessamento</a>    |   Fonte:  <a href="http://ivs.ipea.gov.br/index.php/pt/sobre" style="text-decoration: none; color: #045a8d;">Atlas da Vulnerabilidade Social - IPEA/GovBR</a> " target="_blank"     |     2023 
+        </footer>
+
+
+
+
+
+        
         <script src="js/qgis2web_expressions.js"></script>
         <script src="js/leaflet.js"></script>
         <script src="js/leaflet.rotatedMarker.js"></script>
